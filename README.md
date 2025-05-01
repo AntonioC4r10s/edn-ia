@@ -11,11 +11,3 @@ Este repositório reúne as atividades, projetos e anotações desenvolvidos ao 
 - `projetos/` – Projetos integradores e desafios finais.
 - `notas/` – Anotações pessoais, insights e links úteis.
 
-## 🚀 Tecnologias e Tópicos Abordados
-
-- Fundamentos de IA e Machine Learning
-- Python para Ciência de Dados
-- Bibliotecas: NumPy, Pandas, Scikit-learn, TensorFlow, etc.
-- Modelos supervisionados e não supervisionados
-- Avaliação de modelos e métricas
-- Ética e aplicações reais de IA
