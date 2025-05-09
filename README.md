@@ -7,7 +7,3 @@ Este repositório reúne as atividades, projetos e anotações desenvolvidos ao 
 ## 📂 Estrutura do Repositório
 
 - `aulas/` – Resumos e códigos desenvolvidos durante as aulas.
-- `exercicios/` – Atividades práticas propostas ao longo do curso.
-- `projetos/` – Projetos integradores e desafios finais.
-- `notas/` – Anotações pessoais, insights e links úteis.
-
